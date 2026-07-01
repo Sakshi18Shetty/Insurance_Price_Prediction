@@ -1,0 +1,6 @@
+1. Scikit-learn
+2. Streamlit
+3. Pandas
+4. numpy
+5. matplotlib
+6. Seaborn
